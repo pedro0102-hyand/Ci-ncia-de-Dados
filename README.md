@@ -1,2 +1,2 @@
-# Ci-ncia-de-Dados
+# Ciencia-de-Dados
 Códigos e Exercícios usados nos meus estudos voltados para Ciência de Dados.
